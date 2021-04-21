@@ -1,0 +1,4 @@
+baseURL = "https://plgingembre.com/"
+languageCode = "en-us"
+title = "My Test Blog"
+theme = "paper"

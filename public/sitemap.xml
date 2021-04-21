@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://plgingembre.com/posts/git-cheatsheet/</loc>
+    <lastmod>2021-04-21T11:17:19-07:00</lastmod>
+  </url><url>
+    <loc>https://plgingembre.com/</loc>
+    <lastmod>2021-04-21T11:17:19-07:00</lastmod>
+  </url><url>
+    <loc>https://plgingembre.com/posts/</loc>
+    <lastmod>2021-04-21T11:17:19-07:00</lastmod>
+  </url><url>
+    <loc>https://plgingembre.com/posts/terraform-intro/</loc>
+    <lastmod>2021-04-21T11:12:00-07:00</lastmod>
+  </url><url>
+    <loc>https://plgingembre.com/categories/</loc>
+  </url><url>
+    <loc>https://plgingembre.com/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Test Blog</title>
+    <link>https://plgingembre.com/</link>
+    <description>Recent content on My Test Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Apr 2021 11:17:19 -0700</lastBuildDate><atom:link href="https://plgingembre.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Cheatsheet</title>
+      <link>https://plgingembre.com/posts/git-cheatsheet/</link>
+      <pubDate>Wed, 21 Apr 2021 11:17:19 -0700</pubDate>
+      
+      <guid>https://plgingembre.com/posts/git-cheatsheet/</guid>
+      <description>Git Cheatsheet This post will group all the useful information you need to know to be a Git Ninja in your daily life.</description>
+    </item>
+    
+    <item>
+      <title>Terraform Intro</title>
+      <link>https://plgingembre.com/posts/terraform-intro/</link>
+      <pubDate>Wed, 21 Apr 2021 11:12:00 -0700</pubDate>
+      
+      <guid>https://plgingembre.com/posts/terraform-intro/</guid>
+      <description>Terraform Intro This post is all about what Terraform is and why you should use it.</description>
+    </item>
+    
+  </channel>
+</rss>
